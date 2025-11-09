@@ -1,9 +1,8 @@
 # Math Equation Discovery
 
-An AI-powered system for discovering governing equations, hidden relationships, and symbolic laws directly from data. Like an automated Kepler or Newton, this system doesn't just solve equations—it discovers them.
+An AI-based methodology for discovering governing equations, hidden relationships, and symbolic laws directly from data. Like an automated Kepler or Newton, this system doesn't just solve equations—it discovers them.
 
 ## Overview
-
 This project implements various approaches to automated equation discovery in C++, enabling researchers and engineers to:
 - Extract symbolic mathematical relationships from observational data
 - Discover governing equations of dynamical systems
