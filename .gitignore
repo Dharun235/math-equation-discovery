@@ -34,6 +34,10 @@ Makefile
 *.cmake
 !CMakeLists.txt
 
+# CodeQL artifacts
+_codeql_detected_source_root
+_codeql_build_dir/
+
 # IDE and Editor ignores
 .idea/
 .vscode/
